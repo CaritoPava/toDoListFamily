@@ -1,0 +1,25 @@
+{
+  "name": "todolistfamily",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaritoPava/toDoListFamily.git"
+  },
+  "author": "@CaritoPava",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CaritoPava/toDoListFamily/issues"
+  },
+  "homepage": "https://github.com/CaritoPava/toDoListFamily#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "jest": "^27.5.1",
+    "morgan": "^1.10.0"
+  }
+}
